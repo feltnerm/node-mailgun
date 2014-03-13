@@ -1,3 +1,13 @@
+**HAI!**
+
+I transferred this over to my company's repo. After all, they paid for me to make this and for the machine I made it on, so it only seems fair. 
+
+Check it out at: [Widen/node-mailgun](https://github.com/Widen/node-mailgun).
+
+Old version left here because GitHub has enough space :smiley:
+
+----
+
 # mailgun
 
 Mailgun API client.
